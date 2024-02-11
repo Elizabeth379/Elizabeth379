@@ -6,7 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elizabeth379&layout=compact)](https://github.com/Elizabeth379/github-readme-stats)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Elizabeth379&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Elizabeth379&theme=dark)
 
 
 

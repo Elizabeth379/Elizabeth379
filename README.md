@@ -1,6 +1,8 @@
 ### Hi there 👋  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+am+studing+at+BSUIR+and+majoring+computer+science)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%36b723&lines=Computer+science+student)](https://git.io/typing-svg)  
+
+I'm studing at BSUIR and majoring computer science.  
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Elizabeth379&theme=dark)
 

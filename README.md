@@ -1,12 +1,8 @@
 ### Hi there 👋  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+am+studing+at+BSUIR+and+majoring+computer+science)](https://git.io/typing-svg)
-I'm studying at BSUIR and majoring in computer science.  
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Elizabeth379)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elizabeth379&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elizabeth379&layout=compact&theme=solarized_dark)](https://github.com/Elizabeth379/github-readme-stats)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Elizabeth379&theme=solarized_dark)
 
